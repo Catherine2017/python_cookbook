@@ -1,6 +1,5 @@
 # Python Cookbook
 [python cookbook](https://python3-cookbook-personal.readthedocs.io/zh_CN/latest/index.html)
-Copyright
 - [x] 前言
 - [x] 第一章：数据结构和算法
 - [x] 第二章：字符串和文本
